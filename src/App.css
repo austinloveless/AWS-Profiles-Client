@@ -1,0 +1,25 @@
+.container {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.image-label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.container2 {
+  margin-left: 20%;
+  margin-right: 20%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: flex-end;
+  width: auto;
+}
+.col.s8.m4 {
+  width: 40%;
+}
+.profile-p {
+  font-size: 18px;
+  color: red;
+}
